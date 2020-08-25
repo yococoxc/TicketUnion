@@ -1,0 +1,6 @@
+framework module XLQSKit {
+  umbrella header "XLQSKit.h"
+
+  export *
+  module * { export * }
+}
